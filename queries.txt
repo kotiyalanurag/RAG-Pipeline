@@ -76,8 +76,6 @@ LLAMA3 Response
 4. Response: Die Höhe der Auszahlung wird durch das Fondsvermögen in Ihrem Vertrag zum maßgeblichen Stichtag bestimmt. Dieses ergibt sich 
    aus der Summe aller Anteilseinheiten der Fonds in Ihrem Vertrag multipliziert mit dem jeweiligen Anteilspreis des Fonds zum Stichtag.
 
-5. Response: Nach dem obigen Text gilt Folgendes:
-
-   Die Allgemeine Versicherungsbedingungen sind in der Dokumentation "BASIS_PACK_WBWB/D/1006/XIII/03/22" zu finden, insbesondere im Abschnitt "1. 
+5. Response: Nach dem obigen Text gilt Folgendes: Die Allgemeine Versicherungsbedingungen sind in der Dokumentation "BASIS_PACK_WBWB/D/1006/XIII/03/22" zu finden, insbesondere im Abschnitt "1. 
    Allgemeine Versicherungsbedingungen .....................................................................................................1".
 
