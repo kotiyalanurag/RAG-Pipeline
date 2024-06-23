@@ -1,0 +1,83 @@
+Language -> ENGLISH
+
+1. "What types of funds are offered?"
+2. "What about Church tax deductions?"
+3. "Who should I contact if I have questions?"
+4. "How do you determine amount of payout?"
+5. "What are the general insurance conditions?"
+
+LLAMA3 Response
+
+ 1. Response: According to the provided context, we offer three types of funds:
+
+    1. Standard Life funds
+    2. Managed Portfolios
+    3. Mutual Funds from various fund companies.
+
+2. Response: According to the given context, from January 1, 2015, church tax on 
+   capital gains taxed at a flat rate will be automatically withheld and paid to the 
+   religious communities that collect the tax. This means that there is an automatic 
+   procedure for deducting church taxes, where taxpayers must submit their church tax 
+   payment to the Federal Central Tax Office (BZSt) under the keyword "church tax".
+
+3. Response: If you have any questions about your pension plan or your contract, you should 
+   first contact your broker. Additionally, our service staff are available for you from Monday 
+   to Friday from 9 a.m. to 5 p.m.:
+
+    * Tel.: 0800 2214747 (free of charge)
+    * Fax: 0800 5892821
+    * Email: kundenservice@standardlife.de
+
+4. Response: According to the provided context, you determine the amount of the payout by:
+
+    "In writing, you determine the amount... of the payments"
+
+    This means that you, as the individual or entity making the payment plan, decide on the specific 
+    amount of each payout.
+
+5. Response: According to the provided context, the General Insurance Conditions are:
+
+    * If an insured person dies while participating in humanitarian aid or peacekeeping operations outside 
+      NATO states and within the framework of NATO or the UN (3.1a), the insurance cover is not limited.
+    * In cases where the insured person dies directly or indirectly as a result of war events or unrest, except 
+      for those mentioned in 3.1a, the insurance cover is limited. Instead of paying a death benefit, the insurer 
+      will pay the surrender value calculated on the date of death (b).
+    * The General Insurance Conditions also cover a deferred unit-linked pension insurance policy called ParkAllee, 
+      which provides insurance cover by paying a lifelong monthly pension if the insured person lives to see the pension 
+      start date and offers insurance cover in certain circumstances where the underlying funds or investment strategy changes.
+
+LANGUAGE -> DEUTSCH
+
+1. "Welche Arten von Fonds werden angeboten?"
+2. "Wie sieht es mit den Abzügen von der Kirchensteuer aus?"
+3. "An wen kann ich mich wenden, wenn ich Fragen habe?"
+4. "Wie bestimmen Sie die Höhe der Auszahlung?"
+5. "Welche allgemeinen Versicherungsbedingungen gelten?"
+
+LLAMA3 Response
+
+1. Response: Nach dem gegebenen Kontext bieten wir drei Arten von Fonds an:
+
+    1. Standard Life Fonds
+    2. Managed Portfolios
+    3. Publikumsfonds verschiedener Fondsgesellschaften
+
+2. Response: Nach dem vorliegenden Text erfolgt die Abgeltung von Kirchensteuern auf abgeltend besteuerte Kapitalerträge automatisch 
+   seit dem 1. Januar 2015. Dies bedeutet, dass die Kirchensteuer direkt vom Versicherer abgeführt wird und erst im Rahmen der 
+   Einkommensteuerveranlagung des Steuerpflichtigen anrechnet wird.
+
+3. Response: Sie sollten sich als erstes an Ihren Vermittler wenden. Unsere Servicemitarbeiter sind von Montag bis Freitag von 9:00 
+   bis 17:00 Uhr für Sie da:
+
+   * Tel.: 0800 2214747 (kostenfrei)
+   * Fax: 0800 5892821
+   * E-Mail: kundenservice@standardlife.de
+
+4. Response: Die Höhe der Auszahlung wird durch das Fondsvermögen in Ihrem Vertrag zum maßgeblichen Stichtag bestimmt. Dieses ergibt sich 
+   aus der Summe aller Anteilseinheiten der Fonds in Ihrem Vertrag multipliziert mit dem jeweiligen Anteilspreis des Fonds zum Stichtag.
+
+5. Response: Nach dem obigen Text gilt Folgendes:
+
+   Die Allgemeine Versicherungsbedingungen sind in der Dokumentation "BASIS_PACK_WBWB/D/1006/XIII/03/22" zu finden, insbesondere im Abschnitt "1. 
+   Allgemeine Versicherungsbedingungen .....................................................................................................1".
+
