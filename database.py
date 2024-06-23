@@ -106,7 +106,7 @@ def get_vector_db(load_saved = False):
     chunks_with_ids = get_chunk_ids(chunks = chunks)
     
     # store data in a vector database like FAISS
-    db = FAISS.from_documents(chunks_with_ids, get_embedding(model_name = "sentence-transformers/all-MiniLM-l6-v2"))
+    db = FAISS.from_documents(chunks_with_ids, get_embedding(model_name = "danielheinz/e5-base-sts-en-de"))
     # db.save_local("db_name") # uncomment only if you want to save your vector database locally
     
     return db
