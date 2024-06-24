@@ -111,7 +111,7 @@ python query.py -q "insert-your-query-here"
 
 Here is what the combined query plus context template fed to Llama3 looks like. Note that the context is retrieved from the vector database based on a similarity search with the query.
 
-```python
+```html
 Human: 
 Beantworten Sie die Frage nur basierend auf dem folgenden Kontext:
 
