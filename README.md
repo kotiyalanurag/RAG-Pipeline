@@ -166,11 +166,24 @@ Response: Die Höhe der Auszahlung wird durch das Fondsvermögen in Ihrem Vertra
 
 ```
 
-5. Query - Response: Nach dem obigen Text gilt Folgendes:
+5. Query - "Welche allgemeinen Versicherungsbedingungen gelten?"
 
 ```html
 Response: Nach dem obigen Text gilt Folgendes: Die Allgemeine Versicherungsbedingungen sind in der Dokumentation "BASIS_PACK_WBWB/D/1006/XIII/03/22" zu finden, insbesondere im Abschnitt "1. Allgemeine Versicherungsbedingungen .....................................................................................................1".
 ```
+
+6. Query - "Was ist Ihre fondsgebundene Lebensversicherung von WeitBlick?"
+
+```html
+Response: Laut dem Text ist Ihre WeitBlick fondsgebundene Lebensversicherung eine "fondsgebundene Kapitallebensversicherung gegen Einmalbeitrag". Mit dieser Versicherung können Sie Vermögen aufbauen oder sich oder Dritte für den Erlebens- oder Todesfall absichern.
+```
+
+7. Query - "Was ist Ihre fondsgebundene Rentenversicherung ParkAllee?"
+
+```html
+Response: Ihre ParkAllee ist eine aufgeschobene, fondsgebundene Rentenversicherung gegen Einmalbeitrag. Mit ihr können Sie Vermögen aufbauen. Bei Erleben des Rentenbeginndatums bietet sie Versicherungs-schutz durch Zahlung einer lebenslangen monatlichen Rente (→ Erlebensfallleistung). Zudem besteht sicherungsfall, zahlen wir eine Geldleistung.
+```
+
 To check generated response in both German and English check out queries.txt.
 
 ## Limitations
